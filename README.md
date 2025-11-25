@@ -27,7 +27,7 @@
   <!-- Automation Testing -->
   <a href="https://www.selenium.dev/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="40" height="40"/>
-  </a>
+  <!-- </a>
   <a href="https://testng.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" width="40" height="40"/>
   </a>
@@ -35,7 +35,7 @@
   <!-- Cypress -->
   <a href="https://www.cypress.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Build Tool -->
   <a href="https://maven.apache.org/" target="_blank">
@@ -71,32 +71,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- Framework Badges -->
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Selenium-Framework-green?style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/TestNG-Framework-blue?style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Cypress-Framework-brightgreen?style=for-the-badge" height="28"/>
-
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinthaVidanagamage&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinthaVidanagamage&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-<h3 align="left">🚀 Featured QA Projects:</h3>
-
-- 🔹 **Selenium Automation Framework** — Java + TestNG + Maven  
-- 🔹 **Cypress Automation Framework** — JavaScript + Page Object Model  
-- 🔹 **API Testing with Postman & Rest-Assured**  
-- 🔹 **CI/CD Pipeline Integration with Jenkins**
-
----
-
-✨ *Thank you for visiting my profile! Let's connect and collaborate.*  
+✨ *Thank you for visiting my profile!*  
