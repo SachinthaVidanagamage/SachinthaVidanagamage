@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachintha Vidanagamage</h1>
 <h3 align="center">🔍 QA Engineer | Selenium | Cypress | Automation Testing | Manual Testing</h3>
 
-- 🔭 Currently working on: **Selenium Test Automation Project**  
-- 🌱 Learning: **Cypress | TestNG | API Testing | Playwright | Jenkins | JMeter**  
+- 🔭 Currently working on: **Selenium Test Automation Project**    
 - 📫 Reach me at: **sachinthavida@gmail.com**
 
 ---
