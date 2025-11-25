@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm Sachintha Vidanagamage</h1>
+<h3 align="center">🔍 QA Engineer | Selenium | Cypress | Automation Testing | Manual Testing</h3>
+
+- 🔭 Currently working on: **Selenium Test Automation Project**    
+- 📫 Reach me at: **sachinthavida@gmail.com**
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/sachintha-vidanagamage" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
 <h3 align="left">🛠️ Skills & Tools (QA / Automation):</h3>
 
 <p align="left">
@@ -55,8 +72,31 @@
   </a>
 
   <!-- Framework Badges -->
+  <br/><br/>
   <img src="https://img.shields.io/badge/Selenium-Framework-green?style=for-the-badge" height="28"/>
   <img src="https://img.shields.io/badge/TestNG-Framework-blue?style=for-the-badge" height="28"/>
   <img src="https://img.shields.io/badge/Cypress-Framework-brightgreen?style=for-the-badge" height="28"/>
 
 </p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SachinthaVidanagamage&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinthaVidanagamage&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+<h3 align="left">🚀 Featured QA Projects:</h3>
+
+- 🔹 **Selenium Automation Framework** — Java + TestNG + Maven  
+- 🔹 **Cypress Automation Framework** — JavaScript + Page Object Model  
+- 🔹 **API Testing with Postman & Rest-Assured**  
+- 🔹 **CI/CD Pipeline Integration with Jenkins**
+
+---
+
+✨ *Thank you for visiting my profile! Let's connect and collaborate.*  
