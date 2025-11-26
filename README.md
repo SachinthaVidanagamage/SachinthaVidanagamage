@@ -24,13 +24,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
   </a>
 
-  <!-- Automation Testing -->
   <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="40" height="40"/>
-  <!-- </a>
-  <a href="https://testng.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
+</a>
+
 
   <!-- Cypress -->
   <a href="https://www.cypress.io/" target="_blank">
