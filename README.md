@@ -37,6 +37,12 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" height="40"/>
   </a> -->
 
+  <!-- Mocha -->
+<a href="https://mochajs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" width="40" height="40"/>
+</a>
+
+
   <!-- Build Tool -->
   <a href="https://maven.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40"/>
