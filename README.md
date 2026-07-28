@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachintha Vidanagamage</h1>
 <h3 align="center">🔍 IT Graduate @ SLIIT | QA Enthusiast | Intern @ Fortude | Data Analytics (Power BI, SQL)</h3>
 
-- 🔭 Currently working on: **Selenium Test Automation Project** & a **Flutter + TensorFlow Plant Identification App**
-- 📊 Also building: **Power BI dashboards** and **Python automation tools** for freelance clients
+
+- 📊 Also building: **Power BI dashboards** and **Python automation tools** 
 - 📫 Reach me at: **sachinthavida@gmail.com**
 
 ---
