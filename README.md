@@ -56,7 +56,7 @@
   </a>
 <a href="https://powerbi.microsoft.com/" target="_blank">
   <img
-    src="https://cdn.simpleicons.org/powerbi/F2C811"
+    src="[https://cdn.simpleicons.org/powerbi/F2C811](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKv34zN6UCSAhX5zUTXtP2kKHq2jTeHcbi_EgVmW4ig&s=10)"
     alt="Power BI"
     width="40"
     height="40"
