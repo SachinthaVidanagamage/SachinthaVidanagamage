@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachintha Vidanagamage</h1>
-<h3 align="center">🔍 IT Graduate | QA & Automation | Python Developer | Data Analytics (Power BI, SQL)</h3>
+<h3 align="center">🔍 IT Graduate @ SLIIT | QA Enthusiast | Intern @ Fortude | Data Analytics (Power BI, SQL)</h3>
 
 - 🔭 Currently working on: **Selenium Test Automation Project** & a **Flutter + TensorFlow Plant Identification App**
 - 📊 Also building: **Power BI dashboards** and **Python automation tools** for freelance clients
@@ -41,11 +41,11 @@
   </a>
   <!-- CI/CD -->
   <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
   </a>
   <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
@@ -54,14 +54,9 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
   </a>
-<a href="[https://powerbi.microsoft.com/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKv34zN6UCSAhX5zUTXtP2kKHq2jTeHcbi_EgVmW4ig&s=10)" target="_blank">
-  <img
-    src="[https://cdn.simpleicons.org/powerbi/F2C811](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKv34zN6UCSAhX5zUTXtP2kKHq2jTeHcbi_EgVmW4ig&s=10)"
-    alt="Power BI"
-    width="40"
-    height="40"
-  />
-</a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40"/>
+  </a>
   <!-- ML / Mobile -->
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
