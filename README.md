@@ -54,7 +54,7 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
   </a>
-<a href="https://powerbi.microsoft.com/" target="_blank">
+<a href="[https://powerbi.microsoft.com/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKv34zN6UCSAhX5zUTXtP2kKHq2jTeHcbi_EgVmW4ig&s=10)" target="_blank">
   <img
     src="[https://cdn.simpleicons.org/powerbi/F2C811](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKv34zN6UCSAhX5zUTXtP2kKHq2jTeHcbi_EgVmW4ig&s=10)"
     alt="Power BI"
