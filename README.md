@@ -2,7 +2,7 @@
 <h3 align="center">🔍 IT Graduate @ SLIIT | QA Enthusiast | Intern @ Fortude | Data Analytics (Power BI, SQL)</h3>
 
 
-- 📊 Also building: **Power BI dashboards** and **Python automation tools** 
+- 📊 building: **Power BI dashboards** and **Python automation tools** 
 - 📫 Reach me at: **sachinthavida@gmail.com**
 
 ---
